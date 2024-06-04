@@ -6,3 +6,5 @@ zyBooks*
 *.jpg
 *.jpeg
 */tensorflow_hub
+*.csv
+*.pyc
