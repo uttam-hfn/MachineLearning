@@ -1,0 +1,10 @@
+.idea
+machine_learning_examples-master
+zyBooks*
+
+*zip
+*.jpg
+*.jpeg
+*/tensorflow_hub
+*.csv
+*.pyc
